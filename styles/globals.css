@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card_display {
+    width: 40rem;
+    padding: 5rem;
+    margin: 5rem 0rem 0rem 20rem;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.home_page{
+    color: red;
+}

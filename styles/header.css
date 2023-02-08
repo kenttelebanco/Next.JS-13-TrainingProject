@@ -1,0 +1,9 @@
+
+.head_directory{
+    display: flex;
+}
+
+.head_nav{
+    position: absolute;
+    right: 40px;
+}
